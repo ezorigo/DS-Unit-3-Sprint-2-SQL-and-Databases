@@ -27,7 +27,7 @@ Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Far
 1,3,Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund,female,38,1,5,31.3875
 0,3,Mr. Farred Chehab Emir,male,26,0,0,7.225
 0,1,Mr. Charles Alexander Fortune,male,19,3,2,263
-1,3,Miss. Ellen O'Dwyer,female,24,0,0,7.8792
+1,3,Miss. Ellen O`Dwyer,female,24,0,0,7.8792
 0,3,Mr. Lalio Todoroff,male,23,0,0,7.8958
 0,1,Don. Manuel E Uruchurtu,male,40,0,0,27.7208
 1,1,Mrs. William Augustus (Marie Eugenie) Spencer,female,48,1,0,146.5208
