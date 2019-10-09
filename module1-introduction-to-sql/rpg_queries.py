@@ -38,7 +38,7 @@ def total_items(conn):
     Query total number of items
     """
     curs = conn.cursor()
-    curs.execute("select count(distinct item_id) from armory_item;")
+    curs.execute("select count(*) from armory_item;")
 
     rows = curs.fetchall()
  
@@ -119,7 +119,7 @@ def total_wpc(conn):
 #         print(row)
 
 def main():
-    database = r"module1-introduction-to-sql/rpg_db.sqlite3"
+    database = r"rpg_db.sqlite3"
  
     # create a database connection
     conn = create_connection(database)
