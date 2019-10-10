@@ -54,3 +54,10 @@ for character in characters:
         'dexterity': character[7],
         'wisdom': character[8]
     })
+
+"""
+How was working with MongoDB different from working with PostgreSQL? What was easier, and what was harder?
+
+Working with mongoDB seems easier than PostgreSQL just beacuase there is less steps and is very straight forward
+in the way that it functions.
+"""
